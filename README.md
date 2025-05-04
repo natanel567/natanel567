@@ -28,6 +28,6 @@ Moreover, my service in the Israeli Navy as a ship mechanic instilled in me a st
 
 
 - 2025
-  - [AI-based Computer Games](https://github.com/tompashinsky/AI-based-computer-games.git)
+  - [AI-based Computer Games](https://github.com/tompashinsky/AI-based-computer-games.git) (work in progress)
 - 2024
   - [Machine Learning-Based Prediction of Job Acceptance Outcomes](https://github.com/natanel567/University_Machine_Learning_Project.git)
