@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Netanel, a third-year student pursuing a B.Sc. in Digital Sciences for High-Tech and Economics at Tel Aviv University. 
+I'm Netanel, a B.Sc. graduate in Digital Sciences for High-Tech and Economics from Tel Aviv University. 
 Throughout my studies, I’ve developed strong proficiency in Python, with a focus on data analysis and machine learning using libraries like NumPy, Pandas, and Scikit-learn. 
 I also have experience programming in C and have gained a solid understanding of operating system fundamentals, core computer science algorithms, and data structures.
 Moreover, my service in the Israeli Navy as a ship mechanic instilled in me a strong sense of teamwork, effective cross-functional collaboration, and the ability to perform under pressure in high-stakes environments.
